@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sahilmob/nodeBasics/issues"
   },
-  "homepage": "https://github.com/sahilmob/nodeBasics#readme"
+  "homepage": "https://github.com/sahilmob/nodeBasics#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
